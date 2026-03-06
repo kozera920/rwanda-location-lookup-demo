@@ -18,13 +18,6 @@ npm install
 npm run dev
 ```
 
-## Deploy on Vercel
-
-1. Import the repo in Vercel.
-2. Set **Root Directory** to `demo`.
-3. Build command: `npm run build`
-4. Output directory: `dist`
-
 ## Package APIs used
 
 - `loadData`
