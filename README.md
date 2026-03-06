@@ -1,6 +1,6 @@
 # Rwanda Location Lookup Demo
 
-Minimal React + Tailwind demo showing how to use [rwanda-location-lookup](https://github.com/kozera920):
+Minimal React + Tailwind demo showing how to use [rwanda-location-lookup](https://www.npmjs.com/package/rwanda-location-lookup):
 
 - Forward lookup: `latitude/longitude -> province/district/sector/cell/village`
 - Reverse lookup: `province/district/sector/cell/village -> center coordinates`
