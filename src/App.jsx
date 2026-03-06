@@ -399,7 +399,7 @@ export default function App() {
           </article>
 
           <article className="rounded-xl border border-slate-200 bg-white p-5">
-            <h2 className="text-lg font-semibold text-slate-900">2) Hierarchy to Center</h2>
+            <h2 className="text-lg font-semibold text-slate-900">2) Hierarchy to Coordinates</h2>
             <p className="mt-1 text-sm text-slate-600">
               Select Province to Village and get center latitude/longitude.
             </p>
